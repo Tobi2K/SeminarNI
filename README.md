@@ -12,7 +12,7 @@ $ pip install -r requirements.txt
 ```
 
 ## Configuring the trials
-In the [Autoencoder Notebook](https://github.com/Tobi2K/SeminarNI/blob/main/Autoencoder.ipynb) you can select which comparisons to run by setting the variables to True.
+In the [Autoencoder Notebook](https://github.com/Tobi2K/SeminarNI/blob/main/Autoencoder.ipynb) you can select which comparisons to run by setting the corresponding variables to True.
 
 The possible comparisons are:
 - difference in number of autoencoder runs aka. epochs
@@ -20,7 +20,7 @@ The possible comparisons are:
 - the number of dense layers
 - added noise vs no noise 
 
-In the [Denoising Autoencoder Notebook](https://github.com/Tobi2K/SeminarNI/blob/main/Denoising_Autoencoder.ipynb) you can run a set of denoising autoencoders.
+In the [Denoising Autoencoder Notebook](https://github.com/Tobi2K/SeminarNI/blob/main/Denoising%20Autoencoder.ipynb) you can run a set of denoising autoencoders.
 
 
 ## Show loss trend
@@ -44,3 +44,8 @@ $ tensorboard --logdir=/path/to/project/SeminarNI/logs/layer_count
 # start TensorBoard but only show noise vs no noise comparison
 $ tensorboard --logdir=/path/to/project/SeminarNI/logs/compare_noise
 ```
+
+### Preexisting data
+There already are existing [images](https://github.com/Tobi2K/SeminarNI/tree/main/images), [log-texts](https://github.com/Tobi2K/SeminarNI/tree/main/output_texts) as well as [TensorBoard logs](https://github.com/Tobi2K/SeminarNI/tree/main/logs) contained in this repository.
+
+When running the configurations, only TensorBoard logs are saved automatically. Images and log-texts have to be saved manually.
