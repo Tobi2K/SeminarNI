@@ -1,42 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3746cab5-34e8-4173-8dd8-556c88817985" name="Changes" comment="fix: Remove old files and edit README">
-      <change afterPath="$PROJECT_DIR$/LICENSE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/compare_noise/no_noise_layers_1/train/events.out.tfevents.1643744581.debian.10382.0.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/compare_noise/no_noise_layers_1/train/events.out.tfevents.1643744950.debian.10382.12.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/compare_noise/no_noise_layers_1/train/events.out.tfevents.1643745653.debian.10382.20.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/compare_noise/no_noise_layers_1/validation/events.out.tfevents.1643744596.debian.10382.1.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/compare_noise/no_noise_layers_1/validation/events.out.tfevents.1643744965.debian.10382.13.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/compare_noise/no_noise_layers_3/train/events.out.tfevents.1643744600.debian.10382.2.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/compare_noise/no_noise_layers_3/train/events.out.tfevents.1643744969.debian.10382.14.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/compare_noise/no_noise_layers_3/validation/events.out.tfevents.1643744617.debian.10382.3.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/compare_noise/no_noise_layers_3/validation/events.out.tfevents.1643744989.debian.10382.15.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/compare_noise/no_noise_layers_5/train/events.out.tfevents.1643744622.debian.10382.4.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/compare_noise/no_noise_layers_5/train/events.out.tfevents.1643744993.debian.10382.16.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/compare_noise/no_noise_layers_5/validation/events.out.tfevents.1643744639.debian.10382.5.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/compare_noise/no_noise_layers_5/validation/events.out.tfevents.1643745014.debian.10382.17.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/compare_noise/with_noise_layers_1/train/events.out.tfevents.1643744641.debian.10382.6.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/compare_noise/with_noise_layers_1/train/events.out.tfevents.1643745018.debian.10382.18.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/compare_noise/with_noise_layers_1/train/events.out.tfevents.1643745662.debian.10382.21.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/compare_noise/with_noise_layers_1/validation/events.out.tfevents.1643744654.debian.10382.7.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/compare_noise/with_noise_layers_1/validation/events.out.tfevents.1643745033.debian.10382.19.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/compare_noise/with_noise_layers_1/validation/events.out.tfevents.1643745677.debian.10382.22.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/compare_noise/with_noise_layers_3/train/events.out.tfevents.1643744663.debian.10382.8.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/compare_noise/with_noise_layers_3/train/events.out.tfevents.1643746376.debian.10382.23.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/compare_noise/with_noise_layers_3/validation/events.out.tfevents.1643744680.debian.10382.9.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/compare_noise/with_noise_layers_3/validation/events.out.tfevents.1643746394.debian.10382.24.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/compare_noise/with_noise_layers_5/train/events.out.tfevents.1643744683.debian.10382.10.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/compare_noise/with_noise_layers_5/train/events.out.tfevents.1643747282.debian.10382.25.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/compare_noise/with_noise_layers_5/validation/events.out.tfevents.1643744703.debian.10382.11.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/compare_noise/with_noise_layers_5/validation/events.out.tfevents.1643747300.debian.10382.26.v2" afterDir="false" />
+    <list default="true" id="3746cab5-34e8-4173-8dd8-556c88817985" name="Changes" comment="feat: Add python files">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Autoencoder.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Autoencoder.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Denoising Autoencoder.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Denoising Autoencoder.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/trial4_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/trial4_4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/trial4_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/trial4_5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/trial4_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/trial4_6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +15,7 @@
       <list>
         <option value="Freeze Requirements File" />
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -65,14 +33,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/trial4_6.png" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/var/www/html/SeminarNI&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/logs/old_logs" />
@@ -122,6 +91,8 @@
       <workItem from="1643744196182" duration="4172000" />
       <workItem from="1643877173683" duration="746000" />
       <workItem from="1643892793318" duration="675000" />
+      <workItem from="1654267399005" duration="466000" />
+      <workItem from="1655145296604" duration="18000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Add notebooks, images and logs">
       <created>1643549581699</created>
@@ -137,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643728941860</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat: Add python files">
+      <created>1654267860748</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654267860748</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,7 +136,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="feat: Add notebooks, images and logs" />
     <MESSAGE value="fix: Remove old files and edit README" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: Remove old files and edit README" />
+    <MESSAGE value="feat: Add python files" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Add python files" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/SeminarNI$main.coverage" NAME="main Coverage Results" MODIFIED="1643549533272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
